@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+##Used Tools and language
+-Java
+-Python
+-Java Script
+-C++
+-C#
+-Unity
+-JetBrains Idls
 <!--
 **Comusch/Comusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
