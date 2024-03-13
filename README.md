@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-#Used Tools and language
+Used Tools and language:
+
 -Java
 -Python
 -Java Script
